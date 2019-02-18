@@ -24,6 +24,7 @@ which returns a random knock-knock joke, one of the 300+ pre-installed knock-kno
 library(joker)
 
 knock_knock()
+#> 
 #> Knock knock.
 #> 
 #> Who’s there?
@@ -35,6 +36,7 @@ knock_knock()
 #> Olive you. Do you love me too?
 
 knock_knock()
+#> 
 #> Knock, knock.
 #> 
 #> Who's there?
