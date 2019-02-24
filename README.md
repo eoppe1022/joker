@@ -1,5 +1,5 @@
 # joker
-The package that you've always wanted -- a package that returns a random knock-knock joke
+The package that you've always wanted -- a package that returns jokes
 
 ## Installation
 You can install `joker` from github with:
@@ -14,7 +14,7 @@ library(joker)
 ````
 
 ## The Bare Bones
-The `joker` package is built on 1 function:
+The `joker` package is -- right now -- built on 1 function:
 - `knock_knock()`
 
 which returns a random knock-knock joke, one of the 300+ pre-installed knock-knock jokes.
